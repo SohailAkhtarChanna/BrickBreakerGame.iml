@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FinalProjectGame:jar">
+    <output-path>$USER_HOME$/Desktop/Sohail_Akhtar_023-23-0008_Section_D</output-path>
+    <root id="archive" name="FinalProjectGame.jar">
+      <element id="module-output" name="FinalProjectGame" />
+    </root>
+  </artifact>
+</component>
